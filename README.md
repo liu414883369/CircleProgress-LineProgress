@@ -1,1 +1,3 @@
 # CircleProgress
+圆形进度条和线性进度条
+CAShapeLayer和CAGradientLayer实现进度条控件
